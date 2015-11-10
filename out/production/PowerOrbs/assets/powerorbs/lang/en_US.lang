@@ -1,0 +1,12 @@
+item.powerorbs:OrbBlue.name=Blue Power Orb
+item.powerorbs:OrbGreen.name=Green Power Orb
+item.powerorbs:OrbGold.name=Gold Power Orb
+item.powerorbs:OrbRed.name=Red Power Orb
+item.powerorbs:BladeBlue.name=Blue Blade
+item.powerorbs:BladeGreen.name=Green Blade
+item.powerorbs:BladeGold.name=Gold Blade
+item.powerorbs:BladeRed.name=Red Blade
+item.powerorbs:BucketPowerWater.name=Bucket of Power Water
+tile.powerWater.name=Power Water
+tooltip.inactive=Inactive
+Powerorbs.tab.name=Power Orbs

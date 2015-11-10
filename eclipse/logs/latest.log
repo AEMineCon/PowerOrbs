@@ -1,0 +1,32 @@
+[12:18:36] [main/INFO]: Setting user: Player269
+[12:18:37] [Client thread/INFO]: LWJGL Version: 2.9.1
+[12:18:47] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:PowerOrbs
+[12:18:48] [Sound Library Loader/INFO]: Sound engine started
+[12:18:49] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[12:18:49] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[12:18:49] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:PowerOrbs
+[12:18:50] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[12:18:50] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[12:18:51] [Sound Library Loader/INFO]: Sound engine started
+[12:18:51] [Client thread/ERROR]: ########## GL ERROR ##########
+[12:18:51] [Client thread/ERROR]: @ Post startup
+[12:18:51] [Client thread/ERROR]: 1281: Invalid value
+[12:19:21] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[12:19:21] [Server thread/INFO]: Generating keypair
+[12:19:21] [Server thread/INFO]: Preparing start region for level 0
+[12:19:22] [Server thread/INFO]: Changing view distance to 9, from 10
+[12:19:23] [Server thread/INFO]: Player269[local:E:72884e46] logged in with entity id 216 at (223.98046618628618, 6.800023399133944, 664.1860444937477)
+[12:19:23] [Server thread/INFO]: Player269 joined the game
+[12:19:29] [Server thread/INFO]: Player269 has just earned the achievement [Taking Inventory]
+[12:19:29] [Client thread/INFO]: [CHAT] Player269 has just earned the achievement [Taking Inventory]
+[12:19:31] [Server thread/INFO]: Saving and pausing game...
+[12:19:31] [Server thread/INFO]: Saving chunks for level 'Graph'/Overworld
+[12:19:31] [Server thread/INFO]: Saving chunks for level 'Graph'/Nether
+[12:19:31] [Server thread/INFO]: Saving chunks for level 'Graph'/The End
+[12:19:31] [Server thread/INFO]: Stopping server
+[12:19:31] [Server thread/INFO]: Saving players
+[12:19:31] [Server thread/INFO]: Saving worlds
+[12:19:31] [Server thread/INFO]: Saving chunks for level 'Graph'/Overworld
+[12:19:31] [Server thread/INFO]: Saving chunks for level 'Graph'/Nether
+[12:19:31] [Server thread/INFO]: Saving chunks for level 'Graph'/The End
+[12:19:32] [Client thread/INFO]: Stopping!
